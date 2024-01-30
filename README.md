@@ -1,3 +1,4 @@
 # Demo
 This is my Demo Repository
-Author - Harshal Narigara
+<br>
+<h1> Author - Harshal Narigara </h1>
